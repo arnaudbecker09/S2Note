@@ -28,3 +28,7 @@ cd S2Note
 ## Learning Goals
 - Understand the JWT flow in Spring Boot
 - Learn Spring Security configuration
+
+This project is for personal learning purposes only.
+Do not use plain text passwords or store JWT secrets in memory.
+This is not safe for production use.
