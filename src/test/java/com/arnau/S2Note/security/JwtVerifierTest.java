@@ -1,4 +1,4 @@
-package com.arnau.S2Note;
+package com.arnau.S2Note.security;
 
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

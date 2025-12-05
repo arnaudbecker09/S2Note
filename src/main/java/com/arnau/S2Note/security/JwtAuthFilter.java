@@ -1,5 +1,6 @@
-package com.arnau.S2Note;
+package com.arnau.S2Note.security;
 
+import com.arnau.S2Note.service.JwtService;
 import io.jsonwebtoken.io.IOException;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;

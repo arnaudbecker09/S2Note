@@ -1,11 +1,9 @@
-package com.arnau.S2Note;
+package com.arnau.S2Note.security;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;
 import io.jsonwebtoken.security.Keys;
-import lombok.AllArgsConstructor;
-import lombok.NoArgsConstructor;
 
 import java.security.Key;
 import java.util.Date;

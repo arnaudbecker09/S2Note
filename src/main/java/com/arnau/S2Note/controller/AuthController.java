@@ -1,5 +1,8 @@
-package com.arnau.S2Note;
+package com.arnau.S2Note.controller;
 
+import com.arnau.S2Note.service.JwtService;
+import com.arnau.S2Note.model.LoginRequest;
+import com.arnau.S2Note.model.LoginResponse;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;

@@ -1,4 +1,4 @@
-package com.arnau.S2Note;
+package com.arnau.S2Note.controller;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;

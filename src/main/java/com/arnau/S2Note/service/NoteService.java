@@ -1,4 +1,4 @@
-package com.arnau.S2Note;
+package com.arnau.S2Note.service;
 
 import org.springframework.stereotype.Service;
 
